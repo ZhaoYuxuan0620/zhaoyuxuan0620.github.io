@@ -1,0 +1,22 @@
+Please input test case number: 7
+Initialize a hollow...
+Door 1 connected to lever 1
+Door 2 connected to lever 2 and button
+Door 3 connected to lever 1 and lever 2
+Door 4 connected to button
+BangBoo moves to lever 1
+The status of Door 1 is: unlocked
+The status of Door 2 is: locked
+The status of Door 3 is: locked
+The status of Door 4 is: locked
+BangBoo moves to lever 2
+The status of Door 1 is: unlocked
+The status of Door 2 is: locked
+The status of Door 3 is: unlocked
+The status of Door 4 is: locked
+BangBoo moves to and stays at button
+The status of Door 1 is: unlocked
+The status of Door 2 is: unlocked
+The status of Door 3 is: unlocked
+The status of Door 4 is: unlocked
+Test 7 done

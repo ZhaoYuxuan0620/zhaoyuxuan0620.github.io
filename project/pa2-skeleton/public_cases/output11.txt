@@ -1,0 +1,11 @@
+Please input test case number: 
+Initial status
+Hollow size: 1 level, 2 width, 2 height
+BangBoo at (0, 0, 0)
+Is BangBoo at (0, 0, 0)? true
+Is BangBoo at (0, 0, 0)? false
+Is BangBoo at (0, 0, 1)? true
+Is BangBoo at (0, 0, 1)? true
+Is BangBoo at (0, 0, 1)? false
+Is BangBoo at (0, 1, 1)? true
+Test 11 done

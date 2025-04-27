@@ -1,0 +1,21 @@
+Please input test case number: 
+Initial status
+Hollow size: 1 level, 3 width, 3 height
+Walls at (0, 1, 1), (0, 1, 2)
+BangBoo at (0, 0, 0)
+Door at (0, 2, 1)
+Box at (0, 0, 1)
+The door is locked right now
+BangBoo tries to move right
+BangBoo tries to move right
+BangBoo tries to move down
+Is BangBoo at (0, 2, 1)? false
+Is BangBoo at (0, 2, 0)? true
+Secret power move the box to the switch
+The box has been moved to the switch
+The door is unlocked right now
+BangBoo tries to move down
+Is BangBoo at (0, 2, 1)? true
+BangBoo tries to move down
+Is BangBoo at (0, 2, 2)? true
+Test 13 done

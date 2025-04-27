@@ -1,0 +1,20 @@
+Please input test case number: 
+Initialize a hollow...
+Initial status
+Hollow size: 1 level, 3 width, 3 height
+Door 1 connected to button 1 and button 2
+Door 2 connected to button 2
+Door 3 connected to button 1
+BangBoo moves to button 1
+The status of Door 1 is: locked
+The status of Door 2 is: locked
+The status of Door 3 is: unlocked
+BangBoo moves to button 2
+The status of Door 1 is: locked
+The status of Door 2 is: unlocked
+The status of Door 3 is: locked
+BangBoo goes away to somewhere else
+The status of Door 1 is: locked
+The status of Door 2 is: locked
+The status of Door 3 is: locked
+Test 8 done

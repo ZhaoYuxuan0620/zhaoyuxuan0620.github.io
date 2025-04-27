@@ -1,0 +1,22 @@
+Please input test case number: 
+Initial status
+Hollow size: 1 level, 3 width, 3 height
+Walls at (0, 0, 0), (0, 0, 1), (0, 0, 2), (0, 2, 0), (0, 2, 1), (0, 2, 2)
+BangBoo at (0, 1, 1)
+BangBoo tries to move up
+Is BangBoo at (0, 1, 1)? false
+Is BangBoo at (0, 1, 0)? true
+BangBoo tries to move down
+BangBoo tries to move down
+Is BangBoo at (0, 1, 2)? true
+BangBoo tries to move left
+BangBoo tries to move up
+Is BangBoo at (0, 0, 1)? false
+Is BangBoo at (0, 1, 1)? true
+BangBoo tries to move up
+BangBoo tries to move right
+BangBoo tries to move down
+BangBoo tries to move down
+Is BangBoo at (0, 2, 1)? false
+Is BangBoo at (0, 1, 2)? true
+Test 12 done

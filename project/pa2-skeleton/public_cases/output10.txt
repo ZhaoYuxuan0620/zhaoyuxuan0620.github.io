@@ -1,0 +1,8 @@
+Please input test case number: 
+The box has been moved to the goal
+Is game over? false
+The stone has been moved to the goal
+Is game over? false
+The bangboo has been moved to the goal
+Is game over? true
+Test 10 done

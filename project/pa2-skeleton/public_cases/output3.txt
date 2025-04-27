@@ -1,0 +1,10 @@
+Please input test case number: 
+Register Box at (0, 0, 0)
+Register Box at (0, 0, 1)
+Register Stone at (0, 1, 0)
+Register Box at (0, 1, 1)
+The movable entity at (0, 0, 0) is: ☒
+The movable entity at (0, 1, 0) is: ◍
+The movable entity at (0, 0, 1) is: ☒
+The movable entity at (0, 1, 1) is: ☒
+Test 3 done

@@ -1,0 +1,14 @@
+Please input test case number: 
+Initial status
+Hollow size: 2 level, 2 width, 2 height
+Entrace of portal at location (0, 1, 1)
+Exit of portal at location (1, 1, 1)
+The movable entity at entrance of portal is: empty
+The movable entity at exit of portal is: empty
+Box has been moved to the portal
+The movable entity at at entrance of portal is: ☒
+The movable entity at exit of portal is: empty
+BangBoo has been moved to the portal
+The movable entity at entrance of portal is: empty
+The movable entity at exit of portal is: ☺
+Test 9 done

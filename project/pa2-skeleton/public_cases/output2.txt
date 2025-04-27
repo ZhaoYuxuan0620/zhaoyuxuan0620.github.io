@@ -1,0 +1,15 @@
+Please input test case number: 
+Try to register block entities to the hollow
+Register Wall at (0, 0, 0)
+Register Door at (0, 1, 1)
+Register Portal (Move up) at (0, 0, 2)
+Register Goal at (1, 2, 0)
+Register Lever at (1, 2, 1)
+Register Portal (Move down) at (1, 0, 2)
+The block entity at (0, 0, 0) is: ▦
+The block entity at (0, 1, 1) is: ⌹
+The block entity at (0, 0, 2) is: ↟
+The block entity at (1, 2, 0) is: G
+The block entity at (1, 2, 1) is: ◇
+The block entity at (1, 0, 2) is: ↡
+Test 2 done

@@ -1,0 +1,40 @@
+Please input test case number: 
+Initial map:
++ - + - + - + - +
+| ☺ | ☒ | ☒ | ☒ |
++ - + - + - + - +
+| ◍ | ◍ | ☒ | ☒ |
++ - + - + - + - +
+| ◍ | ☒ | ◍ | ☒ |
++ - + - + - + - +
+| ◍ |   | ☒ | ◍ |
++ - + - + - + - +
+BangBoo tries to move down
+BangBoo tries to move right
+BangBoo tries to move down
+BangBoo tries to move right
+Current map:
++ - + - + - + - +
+| ☒ |   | ☒ | ☒ |
++ - + - + - + - +
+| ◍ | ☒ | ☺ | ☒ |
++ - + - + - + - +
+| ◍ | ◍ | ◍ | ☒ |
++ - + - + - + - +
+| ◍ | ☒ | ☒ | ◍ |
++ - + - + - + - +
+BangBoo tries to move down
+BangBoo tries to move right
+BangBoo tries to move down
+BangBoo tries to move down
+Current map:
++ - + - + - + - +
+| ☒ |   | ☒ | ☒ |
++ - + - + - + - +
+| ◍ | ☒ | ☒ | ☒ |
++ - + - + - + - +
+| ◍ | ◍ | ◍ | ☺ |
++ - + - + - + - +
+| ◍ | ☒ | ☒ | ◍ |
++ - + - + - + - +
+Test 16 done

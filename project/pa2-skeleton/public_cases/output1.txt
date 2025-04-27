@@ -1,0 +1,3 @@
+Please input test case number: 
+Try to initalize an empty hollow
+Test 1 done

@@ -1,0 +1,7 @@
+Please input test case number: 
+Try to register BangBoo to the hollow
+BangBoo at (0, 0, 0): false
+BangBoo at (0, 0, 1): false
+BangBoo at (0, 1, 0): true
+BangBoo at (0, 1, 1): false
+Test 4 done

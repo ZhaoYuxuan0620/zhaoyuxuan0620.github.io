@@ -1,0 +1,9 @@
+Please input test case number: 
+Create a hollow with 3 levels, each level has width=4 and height=5
+The location (2, 0, 0) is in hollow: true
+The location (3, 0, 0) is in hollow: false
+The location (0, 4, 0) is in hollow: false
+The location (0, 0, 4) is in hollow: true
+The location (3, 4, 5) is in hollow: false
+The location (2, 3, 4) is in hollow: true
+Test 5 done
